@@ -13,7 +13,7 @@ PROFILE = {
                "dan suka mencari inspirasi di puncak gunung.",
     "location": "Medan, Sumatera Utara",
     "email": "maulanaibrahim12@gmail.com",
-    "photo": "assets/foto.jpg",
+    "photo": "assets/foto1.jpg",
     "cv_url": "#",
 }
 
